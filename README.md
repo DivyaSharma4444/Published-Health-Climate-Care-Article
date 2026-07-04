@@ -1,0 +1,5 @@
+Abstract
+The transmission of infectious diseases has been significantly impacted by global climate change in a variety of ways. Climate change exacerbates already-existing disparities and difficulties in managing infectious diseases, as it does with other effects of climate change on human health. Additionally, it makes some emerging infectious disease challenges more likely. The propagation of infectious diseases like dengue fever, malaria, tick-borne illnesses, leishmaniasis, and ebola may be altered by climate change. Despite ongoing research, there is no concrete proof that COVID-19 is getting worse or that climate change is to blame. Malaria and dengue cases have grown as a direct effect of global climate change, and this trend is projected to continue as temperatures rise and more extreme weather events occur. In addition to facilitating their spread.
+
+Keywords
+MD (Meteorological Drought) • Meteorological drought indices • Climate change • Changes in precipitation • Epidemics • Breeding and maturation
